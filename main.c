@@ -65,7 +65,6 @@ void writeRoots(const char* filename, double x1, double x2, int numRoots) {
     fclose(outputFile);
 }
 
-
 int main() {
     QuadraticEquation equation;
     double root1, root2;
