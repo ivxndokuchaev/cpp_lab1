@@ -1,0 +1,3 @@
+/Users/ivandokuchaev/Documents/uni/cpp/lab1/CMakeFiles/main.dir
+/Users/ivandokuchaev/Documents/uni/cpp/lab1/CMakeFiles/edit_cache.dir
+/Users/ivandokuchaev/Documents/uni/cpp/lab1/CMakeFiles/rebuild_cache.dir
